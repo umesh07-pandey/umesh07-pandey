@@ -20,10 +20,11 @@
       /></a>
     </p>
 
-   - 🔭 I’m currently working on JobSphere - 🌱 I’m currently learning React
-    .js,Node.js and python - 👯 I’m looking to collaborate on Web deplopment
-    related projects - 🤝 I’m looking for help with Machine learning - 💬 Ask me
-    about Web Development
+ 🔭 I’m currently working on JobSphere - <br>
+ 🌱 I’m currently learning React.js,Node.js and python - <br>
+ 👯 I’m looking to collaborate on Web deplopment related projects - <br>
+ 🤝 I’m looking for help with Machine learning - <br>
+ 💬 Ask me about Web Development - <br>
 
    <h3 align="left">Connect with me:</h3>
     <p align="left">
